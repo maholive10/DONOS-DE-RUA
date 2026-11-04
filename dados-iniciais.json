@@ -1,0 +1,540 @@
+{
+ "ruas": [
+  "Rua ALM",
+  "Rua 0",
+  "Rua 1",
+  "Rua 2",
+  "Rua 3",
+  "Rua 4",
+  "Rua 5",
+  "Rua 6",
+  "Rua 7",
+  "Rua 8",
+  "Rua 9",
+  "Rua 10",
+  "Rua 11",
+  "Rua 12",
+  "Rua 13",
+  "Rua 14"
+ ],
+ "colaboradores": [
+  {
+   "nome": "Amanda da Silva Pereira",
+   "turno": "T1"
+  },
+  {
+   "nome": "Amanda Souza Mendes",
+   "turno": "T2"
+  },
+  {
+   "nome": "Bruno da Silva Pimentel",
+   "turno": "T3"
+  },
+  {
+   "nome": "Eduardo Martins Rodrigues",
+   "turno": "T3"
+  },
+  {
+   "nome": "Natanael dos Santos Silva",
+   "turno": "T3"
+  },
+  {
+   "nome": "Nicelia Ramalho Leite",
+   "turno": "T3"
+  },
+  {
+   "nome": "Alessandro de Jesus Soares",
+   "turno": "T3"
+  },
+  {
+   "nome": "Alexandre Correia de Araujo",
+   "turno": "T1"
+  },
+  {
+   "nome": "Amauri da Silva Xavier",
+   "turno": "T1"
+  },
+  {
+   "nome": "Ana Paula Grecco Medeiros Pires",
+   "turno": "T1"
+  },
+  {
+   "nome": "André Sousa Moura",
+   "turno": "T3"
+  },
+  {
+   "nome": "Antonio Carlos Ribeiro Correia",
+   "turno": "T3"
+  },
+  {
+   "nome": "Antonio Marcio Torquato de Melo",
+   "turno": "T1"
+  },
+  {
+   "nome": "Aparecida Rosa Selis Santana",
+   "turno": "T3"
+  },
+  {
+   "nome": "Anderson Augusto da Silva",
+   "turno": "T2"
+  },
+  {
+   "nome": "Breno Borges Diniz",
+   "turno": "T1"
+  },
+  {
+   "nome": "Bruno Franca de Lima",
+   "turno": "T3"
+  },
+  {
+   "nome": "Bruno Jonatas Pereira Bernado",
+   "turno": "T3"
+  },
+  {
+   "nome": "Caio dos Santos Araujo",
+   "turno": "T1"
+  },
+  {
+   "nome": "Beatriz Damasceno",
+   "turno": "T2"
+  },
+  {
+   "nome": "Carlos Henrique de Lima",
+   "turno": "T2"
+  },
+  {
+   "nome": "Caio Cezar Bonfim Nereis",
+   "turno": "T3"
+  },
+  {
+   "nome": "Christopher Kennedy Santiago da Silva",
+   "turno": "T3"
+  },
+  {
+   "nome": "Cristiano Barbosa da Silva",
+   "turno": "T1"
+  },
+  {
+   "nome": "Daiane Bezerra de Arruda Lins",
+   "turno": "T1"
+  },
+  {
+   "nome": "Danilo Dias da Silva",
+   "turno": "T1"
+  },
+  {
+   "nome": "Daniel Lima da Silva Moraes",
+   "turno": "T3"
+  },
+  {
+   "nome": "Davi Rodrigues de Lima",
+   "turno": "T3"
+  },
+  {
+   "nome": "Carlos Souza dos Passos",
+   "turno": "T2"
+  },
+  {
+   "nome": "Cheyenne de Oliveira Sales",
+   "turno": "T2"
+  },
+  {
+   "nome": "Deyvid Theodoro Freitas",
+   "turno": "T3"
+  },
+  {
+   "nome": "Eduardo Martins Figueiredo",
+   "turno": "T3"
+  },
+  {
+   "nome": "Fabio Aparecido Pereira",
+   "turno": "T1"
+  },
+  {
+   "nome": "Everaldo Costa",
+   "turno": "T3"
+  },
+  {
+   "nome": "Edielson Italo Santos Oliveira Santana",
+   "turno": "T2"
+  },
+  {
+   "nome": "Eduardo dos Santos Paes",
+   "turno": "T2"
+  },
+  {
+   "nome": "Fabio Fernades Tumaz",
+   "turno": "T2"
+  },
+  {
+   "nome": "Francisco Givanildo da Silva",
+   "turno": "T2"
+  },
+  {
+   "nome": "Jaime Pascoal dos Santos Junior",
+   "turno": "T1"
+  },
+  {
+   "nome": "Janaina Pereira de Sousa",
+   "turno": "T1"
+  },
+  {
+   "nome": "Giovane Silva dos Santos",
+   "turno": "T2"
+  },
+  {
+   "nome": "Ingrid Alves Neves",
+   "turno": "T3"
+  },
+  {
+   "nome": "Kaique Farias Gomes",
+   "turno": "T1"
+  },
+  {
+   "nome": "Jhonny Ribeiro Falcao",
+   "turno": "T1"
+  },
+  {
+   "nome": "Gustavo Reis",
+   "turno": "T2"
+  },
+  {
+   "nome": "Isaac Vieira Lopes",
+   "turno": "T2"
+  },
+  {
+   "nome": "Jean Augusto da Silva Batista",
+   "turno": "T2"
+  },
+  {
+   "nome": "Joao Victor Almeida de Lima",
+   "turno": "T2"
+  },
+  {
+   "nome": "Joyce Alcantara de Amorim",
+   "turno": "T1"
+  },
+  {
+   "nome": "José da Silva",
+   "turno": "T2"
+  },
+  {
+   "nome": "Jose Nilton Bezerra",
+   "turno": "T2"
+  },
+  {
+   "nome": "Jennyffer Rafaela de Souza",
+   "turno": "T3"
+  },
+  {
+   "nome": "Jose Souza Ribeiro dos Santos",
+   "turno": "T2"
+  },
+  {
+   "nome": "Joseilton Delfino da Silva",
+   "turno": "T2"
+  },
+  {
+   "nome": "Kelvin Costa da Cruz",
+   "turno": "T3"
+  },
+  {
+   "nome": "Livia Jadi Pereira Silva",
+   "turno": "T3"
+  },
+  {
+   "nome": "Lucas Abel de Oliveira",
+   "turno": "T3"
+  },
+  {
+   "nome": "Lucas Viana Rocha",
+   "turno": "T1"
+  },
+  {
+   "nome": "Kauan Pistori Lopes",
+   "turno": "T2"
+  },
+  {
+   "nome": "Luis Fernando Yepez Cardoso",
+   "turno": "T1"
+  },
+  {
+   "nome": "Lucas Moura Lima",
+   "turno": "T3"
+  },
+  {
+   "nome": "Marcelo Eustaquio dos Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Marcos Aurelio Batista",
+   "turno": "T1"
+  },
+  {
+   "nome": "Marcos Gabriel Brandao",
+   "turno": "T1"
+  },
+  {
+   "nome": "Leandro Valadao de Freitas",
+   "turno": "T2"
+  },
+  {
+   "nome": "Michel Willian da Silva",
+   "turno": "T1"
+  },
+  {
+   "nome": "Leonardo Meoco de Morais",
+   "turno": "T2"
+  },
+  {
+   "nome": "Matheus Henrique Dias dos Santos",
+   "turno": "T3"
+  },
+  {
+   "nome": "Rafael de Souza Castilho",
+   "turno": "T1"
+  },
+  {
+   "nome": "Marcos Antonio Cardoso",
+   "turno": "T2"
+  },
+  {
+   "nome": "Reginaldo Cruz Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Marcos Antonio Lopes",
+   "turno": "T2"
+  },
+  {
+   "nome": "Rita de Cassia Maciel da Silva",
+   "turno": "T1"
+  },
+  {
+   "nome": "Roberto Marques Pereira",
+   "turno": "T1"
+  },
+  {
+   "nome": "Pedro Vinicius Bento Palmeira",
+   "turno": "T3"
+  },
+  {
+   "nome": "Rafael Feliciano Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Samuel Queiroz Chagas",
+   "turno": "T1"
+  },
+  {
+   "nome": "Rodrigo Faria",
+   "turno": "T3"
+  },
+  {
+   "nome": "Sandro Sebastiao dos Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Miguel Angel Davila Betancourt",
+   "turno": "T2"
+  },
+  {
+   "nome": "Sueli Martins da Silva",
+   "turno": "T1"
+  },
+  {
+   "nome": "Tacia Pereira dos Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Paulo de Tasso de Souza Santana",
+   "turno": "T2"
+  },
+  {
+   "nome": "Thalita Oliveira Correia",
+   "turno": "T1"
+  },
+  {
+   "nome": "Thiago Cesar dos Santos",
+   "turno": "T1"
+  },
+  {
+   "nome": "Paulo Henrique Bernardo de Oliveira",
+   "turno": "T2"
+  },
+  {
+   "nome": "Samuel Silva Wanderley",
+   "turno": "T3"
+  },
+  {
+   "nome": "Tiago Evaristo de Sousa Vieira",
+   "turno": "T3"
+  },
+  {
+   "nome": "Raphael Bruno Santana Pereira",
+   "turno": "T2"
+  },
+  {
+   "nome": "Ricardo Alves Bezerra",
+   "turno": "T2"
+  },
+  {
+   "nome": "Denis Anastacio Camillo",
+   "turno": "T1"
+  },
+  {
+   "nome": "Ronnie dos Santos Nascimento",
+   "turno": "T2"
+  },
+  {
+   "nome": "Sergio Alexsander Souza Mueller",
+   "turno": "T2"
+  },
+  {
+   "nome": "Tierry Capdevilla da Silva",
+   "turno": "T3"
+  },
+  {
+   "nome": "Thomaz Alexs Teixeira Souza",
+   "turno": "T2"
+  },
+  {
+   "nome": "Victor Alves Silva Sousa",
+   "turno": "T2"
+  },
+  {
+   "nome": "Victor Santana de Araujo Lima",
+   "turno": "T2"
+  },
+  {
+   "nome": "Willian Goncalves Vidal",
+   "turno": "T3"
+  },
+  {
+   "nome": "Jonathan de Souza Martins",
+   "turno": "T3"
+  },
+  {
+   "nome": "Chales Leandro",
+   "turno": "T3"
+  },
+  {
+   "nome": "Augusto Cesar de Oliveira Maciel",
+   "turno": "T3"
+  },
+  {
+   "nome": "Rafael da Silva Leite",
+   "turno": "T3"
+  },
+  {
+   "nome": "Marcos Aparecido Barbosa",
+   "turno": "T3"
+  },
+  {
+   "nome": "Denis Guilherme Gama Teixeria",
+   "turno": "T3"
+  },
+  {
+   "nome": "Bruno Oliveira Dias Carpani",
+   "turno": "T2"
+  },
+  {
+   "nome": "Guilherme de Sa Pereira",
+   "turno": "T2"
+  },
+  {
+   "nome": "Marcos Gabriel de Almeida Cardoso",
+   "turno": "T2"
+  },
+  {
+   "nome": "Kaique Avelar Souza dos Santos",
+   "turno": "T2"
+  },
+  {
+   "nome": "Washington Souza de Castro",
+   "turno": "T2"
+  }
+ ],
+ "usuarios": [
+  {
+   "nome": "João Victor Pereira de Carvalho",
+   "usuario": "joao.carvalho",
+   "perfil": "coordenador",
+   "turnos": [],
+   "salt": "72088d4f7cd86869c7d8eaeca3b669cd",
+   "hash": "16d818fa4cab412c8290ffae19b7c3bc211433d39b8de82e27cbd67cf705a1fd"
+  },
+  {
+   "nome": "Carlos Daniel Ventura dos Santos",
+   "usuario": "carlos.santos",
+   "perfil": "lider",
+   "turnos": [
+    "T1"
+   ],
+   "salt": "2aaf6e0f718b83675939163298e369f1",
+   "hash": "9479bb9ade86bce7cb067cc5cc59fdea4a83d81a93798c0a2fc62f24e448004c"
+  },
+  {
+   "nome": "Cleber de Lima Oliveira",
+   "usuario": "cleber.oliveira",
+   "perfil": "lider",
+   "turnos": [
+    "T3"
+   ],
+   "salt": "2998f076ff0e55f4bde974cc12bc0d73",
+   "hash": "b55e22c3b15ba8e598d29738f05bf1258edc5ae331e3bfd3d77a17e94cd82b3b"
+  },
+  {
+   "nome": "Clayton do Nascimento Silva",
+   "usuario": "clayton.silva",
+   "perfil": "coordenador",
+   "turnos": [],
+   "salt": "9b4a67dc4d1b3aceab02033ad49df128",
+   "hash": "f0cd03d1f5ebb049b2569e5e55b63b994db6af7da403dd8478d4c46146829795"
+  },
+  {
+   "nome": "Guilherme Cavalcanti Manucci",
+   "usuario": "guilherme.manucci",
+   "perfil": "lider",
+   "turnos": [
+    "T2"
+   ],
+   "salt": "c93e4aaf951e6cafcaca67ee630cfb97",
+   "hash": "af0789c24f0e2bcf8cffc2412cd29b46605cf67051aa58a3887fbb7e436e3271"
+  },
+  {
+   "nome": "Marcos Rogerio Vicente",
+   "usuario": "marcos.vicente",
+   "perfil": "lider",
+   "turnos": [
+    "T2"
+   ],
+   "salt": "1bdb4b3f39ea091f6965323773d4659e",
+   "hash": "ab2cedd1df3b8a0722fcd714e6897da5e8f04290cd1a7f1d1d630986d716ccaf"
+  },
+  {
+   "nome": "Rubens Thomaz Pereira Junior",
+   "usuario": "rubens.pereira",
+   "perfil": "coordenador",
+   "turnos": [],
+   "salt": "eb99db2c18c6483937077b902fafe063",
+   "hash": "da9258ca98b2d78ee76078b4be7382bf166a993961082ea2dbc6133d86d341b3"
+  },
+  {
+   "nome": "Marcelo Henrique Monteiro de Oliveira",
+   "usuario": "marcelo.oliveira",
+   "perfil": "coordenador",
+   "turnos": [],
+   "salt": "c9e10133416afca6a634213871eb31da",
+   "hash": "181f83666dfbb47fb8061f442ba33cd4f9fa823152c0c2bf454ce8ca8c864f6b"
+  },
+  {
+   "nome": "Mario Azevedo Bernardino",
+   "usuario": "mario.bernardino",
+   "perfil": "visualizador",
+   "turnos": [],
+   "salt": "aa01c2400cfe1a695e9ad4dcb80aeb60",
+   "hash": "010c690557215664fca70602fe54bef8b28396a660afb984c05422f5a0c1c99a"
+  }
+ ]
+}
