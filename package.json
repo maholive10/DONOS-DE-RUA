@@ -1,0 +1,12 @@
+{
+  "name": "checklist-5s-donos-de-rua",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Check-list diário 5S e tratativa de avarias – donos de rua (PremieRpet)",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

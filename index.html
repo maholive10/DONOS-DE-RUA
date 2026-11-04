@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#E64107">
+  <title>Check-list 5S · Donos de Rua</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app"><div class="empty">Carregando…</div></div>
+  <script>
+    // Se a tela não carregar, mostra o motivo em vez de uma página em branco
+    window.addEventListener('error', function (e) {
+      if (window.__appOk) return;
+      var a = document.getElementById('app');
+      a.innerHTML = '<div style="max-width:560px;margin:40px auto;padding:16px;font-family:sans-serif"><div style="background:#FDE8E8;color:#8B1414;border-radius:12px;padding:14px">' +
+        '<b>O app não carregou.</b><br>' + String(e.message || ('Arquivo não encontrado: ' + (e.target && (e.target.src || e.target.href)))).replace(/</g, '&lt;') +
+        '<br><small>Confira no GitHub se app.js e os arquivos .min.js estão na raiz do repositório.</small></div></div>';
+    }, true);
+  </script>
+  <div id="modal" class="modal" hidden></div>
+  <div id="toast" class="toast" hidden></div>
+  <script src="jspdf.umd.min.js" defer></script>
+  <script src="jspdf.plugin.autotable.min.js" defer></script>
+  <script src="xlsx.full.min.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
